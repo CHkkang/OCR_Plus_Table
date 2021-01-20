@@ -2,7 +2,7 @@
 
 ## System Environments:
 
-	* Android version: 2.5.1
+	* Android compileSdkVersion: 28
 	* Database: MySQL 5.7
 
 ## System dependencies:
