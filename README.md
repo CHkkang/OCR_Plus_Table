@@ -1,7 +1,14 @@
-# OCR_Plus_Table
+# OCR Plus Table
 
+## System Environments:
 
-## made by firstpenguin(JaeMinYooon, CHkkang, Jaaaewon, Jeongjibsa)
+	* Android version: 2.5.1
+	* Database: MySQL 5.7
 
+## System dependencies:
 
-
+  * 
+  * 
+  * 
+  * 
+  * 
